@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/syedmuzaffarhussain1997](https://github.com/syedmuzaffarhussain1997)**
 
-- ⚡Fact **Developing Unique & Challenging task is my enthusiasm **
+- ⚡Fact Developing Unique & Challenging task is my enthusiasm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
