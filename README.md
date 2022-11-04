@@ -42,10 +42,11 @@
     
 <!--   <a href="https://github.com/syedmuzaffarhussain1997/github-readme-stats"><img alt="SyedMuzaffarHussain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/username=syedmuzaffarhussain1997&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><br/>-->
 <!-- <a href="https://github.com/syedmuzaffarhussain1997/github-readme-activity-graph"><img alt="SyedMuzaffarHussain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=syedmuzaffarhussain1997&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
-
   <br/>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuzaffarhussain1997)
-## ❤ Views and Followers
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuzaffarhussain1997)
+  <br/>
+
+  ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=syedmuzaffarhussain1997">
