@@ -40,13 +40,12 @@
   <br/>
     <a href="https://github.com/syedmuzaffarhussain1997/github-readme-stats"><img alt="Syed Muzaffar Hussain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=syedmuzaffarhussain1997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  
-       ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuzaffarhussain1997)
 <!--   <a href="https://github.com/syedmuzaffarhussain1997/github-readme-stats"><img alt="SyedMuzaffarHussain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/username=syedmuzaffarhussain1997&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
  -->
 <!-- <a href="https://github.com/syedmuzaffarhussain1997/github-readme-activity-graph"><img alt="SyedMuzaffarHussain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=syedmuzaffarhussain1997&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  -->
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuzaffarhussain1997)
 <br/>
 
 ## ❤ Views and Followers
