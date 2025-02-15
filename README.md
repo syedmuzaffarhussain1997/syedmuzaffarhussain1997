@@ -3,10 +3,15 @@
 <h3 align="center">Data & AI Professional | ML & AI Engineer | Jr. Big Data Engineer | Data Solutions Architect</h3>
 
 <div align="center">  
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)]([[LINKEDIN_URL](https://pk.linkedin.com/in/muzaffarhussain1)])
+<!--  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)]([[LINKEDIN_URL]()])
 [![Email](https://img.shields.io/badge/Email-Discuss%20Opportunities-D14836?logo=gmail)](mailto:[YOUR_EMAIL])
-[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)]([KAGGLE_URL])
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)]([KAGGLE_URL])-->
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)](https://pk.linkedin.com/in/muzaffarhussain1)
+[![Email](https://img.shields.io/badge/Email-Discuss%20Opportunities-D14836?logo=gmail)](mailto:muzaffar.ai.engineer@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)](https://kaggle.com/)
 </div>
 
 ## 🙋‍♂️ About Me
