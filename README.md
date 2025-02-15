@@ -4,7 +4,7 @@
 
 <div align="center">  
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)]([LINKEDIN_URL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)]([[LINKEDIN_URL](https://pk.linkedin.com/in/muzaffarhussain1)])
 [![Email](https://img.shields.io/badge/Email-Discuss%20Opportunities-D14836?logo=gmail)](mailto:[YOUR_EMAIL])
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)]([KAGGLE_URL])
 </div>
