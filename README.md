@@ -148,6 +148,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku) 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Cylic](https://img.shields.io/badge/-Cylic-3776AB?logo=cyclic&logoColor=white)
 
 ### 🔧 Development & Utilities 
 
