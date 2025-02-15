@@ -47,6 +47,11 @@
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
+**Statistical Methods:**  
+![Hypothesis](https://img.shields.io/badge/-Hypothesis_Testing-009688?logo=mathworks) 
+![TimeSeries](https://img.shields.io/badge/-Time_Series-4CAF50?logo=trello)
+
+
 **Generative AI & NLP**
 <p align="left">
   <img src="https://img.shields.io/badge/Llama-FFD700?logo=meta&logoColor=black" alt="Llama">
@@ -101,19 +106,15 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass">
 </p>
 
-**Statistical Methods:**  
-![Hypothesis](https://img.shields.io/badge/-Hypothesis_Testing-009688?logo=mathworks) 
-![TimeSeries](https://img.shields.io/badge/-Time_Series-4CAF50?logo=trello)
-
-**Tools:**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) 
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-44B12B?logo=python) 
-![Groq](https://img.shields.io/badge/-Groq_LPUs-00A98F?logo=groq)
-
-**Deployment:**  
+## Deployment 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku) 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
+
+## Tools
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) 
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-44B12B?logo=python) 
+![Groq](https://img.shields.io/badge/-Groq_LPUs-00A98F?logo=groq)
 
 
 <h3 align="left">Connect with me:</h3>
