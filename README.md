@@ -17,9 +17,8 @@
 <p>
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
     <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
-    ![NLTK](https://img.shields.io/badge/-NLTK-259d24?logo=nltk)
 </p>
-  
+    ![NLTK](https://img.shields.io/badge/-NLTK-259d24?logo=nltk)  
 
 ### Data Engineering & Analytics
 **Data Tools:**  
@@ -28,11 +27,11 @@
   <img src="https://img.shields.io/badge/PySpark-FF0080?logo=apachespark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">  
+</p>
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) 
   ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks)
-</p>
-
+  
 ### Generative AI
 ![Llama](https://img.shields.io/badge/-Llama_3.1-FFD700?logo=meta) 
 ![Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=googlegemini) 
