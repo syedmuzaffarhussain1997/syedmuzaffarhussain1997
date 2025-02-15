@@ -139,9 +139,6 @@
 </p>
 
 
-![Tech Stack](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,tensorflow,pytorch,react,nodejs,python,js,ts,mongodb,mysql,postman,linux,git&theme=dark&perline=8)
-
-
 ## 📊 My Github Stats
 
   <br/>
