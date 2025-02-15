@@ -7,13 +7,35 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)]([LINKEDIN_URL])
 [![Email](https://img.shields.io/badge/Email-Discuss%20Opportunities-D14836?logo=gmail)](mailto:[YOUR_EMAIL])
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)]([KAGGLE_URL])
-
 </div>
+
+## 🙋‍♂️ About Me
+**Data & AI Professional** passionate about building production-ready machine learning solutions and scalable data pipelines. Combining:
+
+✔️ **Technical Foundations**: 2+ years hands-on experience with Python, JavaScript, and cloud platforms  
+✔️ **Certified Expertise**: NVIDIA AI Specialist, Google Cloud Professional, Data Engineering Bootcamp  
+✔️ **Full-Stack Capability**: From data modeling (Pandas, SQL) to deployment (AWS, Docker)  
+✔️ **Continuous Learner**: Active contributor to open-source AI projects and technical communities  
+
+**Current Focus**:  
+🔭 Implementing MLOps best practices in cloud-native environments  
+🌱 Mastering distributed data processing with PySpark & Databricks  
+💡 Exploring generative AI applications with Llama & Gemini APIs  
+
 
 ## 🛠️ Technical Expertise
 
-### Artificial Intelligence & Machine Learning & Data Science
-**Frameworks:**  
+### Languages & Core Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+### Artificial Intelligence & Machine Learning & Data Science Stack
+**Frameworks**  
 <p>
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
     <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
@@ -22,7 +44,7 @@
 
 
 ### Data Engineering & Analytics
-**Data Tools:**  
+**Data Tools**  
 <p>
   <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
   <img src="https://img.shields.io/badge/PySpark-FF0080?logo=apachespark&logoColor=white" alt="PySpark">
@@ -47,27 +69,27 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
-**Services:**  
+**Services**  
 ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3) 
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2) 
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-232F3E?logo=awscloudformation)
 
-**Tools:**  
+**Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
 ### <img src="https://img.icons8.com/3d-fluency/24/code.png" width="20"/> Full-Stack Development
-**Frontend:**  
+**Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
 
-**Backend:**  
+**Backend**  
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
 
-**Databases:**  
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
