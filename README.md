@@ -29,7 +29,7 @@
 
 ## 🛠️ Technical Expertise
 
-### <img src="https://img.icons8.com/3d-fluency/94/python.png" width="25"/> Languages & Core Development
+### Languages & Core Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-### <img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="25"/> AI/ML Engineering
+### AI/ML Engineering
 **Machine Learning Implementation**
 <p align="left">
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
-### <img src="https://img.icons8.com/3d-fluency/94/cloud-network.png" width="25"/> Cloud & DevOps
+### Cloud & DevOps
 **Infrastructure & Deployment**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/CloudFormation-232F3E?logo=awscloudformation&logoColor=white" alt="CloudFormation">
 </p>
 
-### <img src="https://img.icons8.com/3d-fluency/94/web-design.png" width="25"/> Full-Stack Development
+### Full-Stack Development
 **Frontend Ecosystem**
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
