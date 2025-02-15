@@ -14,11 +14,12 @@
 
 ### Artificial Intelligence & Machine Learning & Data Science
 **Frameworks:**  
+![NLTK](https://img.shields.io/badge/-NLTK-259d24?logo=nltk)
 <p>
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
     <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
 </p>
-![NLTK](https://img.shields.io/badge/-NLTK-259d24?logo=nltk)
+
 
 ### Data Engineering & Analytics
 **Data Tools:**  
