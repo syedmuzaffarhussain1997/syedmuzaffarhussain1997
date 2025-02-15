@@ -171,15 +171,12 @@
 <br/>
 
 ## 📊 My Github Stats
-<br/>
 <a href="https://github.com/syedmuzaffarhussain1997/github-readme-stats">
       <img alt="Syed Muzaffar Hussain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=syedmuzaffarhussain1997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
  
 ##
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuzaffarhussain1997&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true)
-<br/>
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=syedmuzaffarhussain1997"></a>
