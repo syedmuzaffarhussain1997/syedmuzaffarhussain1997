@@ -69,7 +69,9 @@
 **Statistical Methods**  
 ![Hypothesis](https://img.shields.io/badge/-Hypothesis_Testing-009688?logo=mathworks) 
 ![TimeSeries](https://img.shields.io/badge/-Time_Series-4CAF50?logo=trello)
-
+![Z-Test](https://img.shields.io/badge/Z--Test-4CAF50?logo=mathworks&logoColor=white)
+![T-Test](https://img.shields.io/badge/T--Test-009688?logo=mathworks&logoColor=white)
+![Chi-Square](https://img.shields.io/badge/Chi_Square-8BC34A?logo=mathworks&logoColor=black)
 
 **Generative AI & NLP**
 <p align="left">
@@ -90,10 +92,12 @@
   <img src="https://img.shields.io/badge/-Databricks-FF3621?logo=databricks" alt="Databricks">
 </p>
 
-**Business Intelligence**
+**Data Visualization & Business Intelligence**
 <p align="left">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Seaborn-5C8EA4?logo=python&logoColor=white" alt="Seaborn"> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib">
 </p>
 
 ### Cloud & DevOps
@@ -108,9 +112,10 @@
 
 **AWS Services**
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?logo=amazonaws&logoColor=white" alt="AWS IAM">
   <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" alt="S3">
   <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white" alt="EC2">
-  <img src="https://img.shields.io/badge/CloudFormation-232F3E?logo=awscloudformation&logoColor=white" alt="CloudFormation">
+  <img src="https://img.shields.io/badge/CloudFormation-232F3E?logo=awscloudformation&logoColor=white" alt="CloudFormation">  
 </p>
 
 
