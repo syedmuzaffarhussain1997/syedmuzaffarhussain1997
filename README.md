@@ -30,7 +30,7 @@
 ## 🛠️ Technical Expertise
 
 ### Languages & Core Development
------
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
@@ -40,7 +40,7 @@
 </p>
 
 ### AI/ML Engineering
------
+
 **Machine Learning Implementation**
 <p align="left">
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
@@ -63,7 +63,7 @@
 </p>
 
 ### <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="25"/> Data Engineering
------
+
 **Processing & Storage**
 <p align="left">
   <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
@@ -80,7 +80,7 @@
 </p>
 
 ### Cloud & DevOps
------
+
 **Infrastructure & Deployment**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
@@ -98,7 +98,7 @@
 
 
 ### 🖥️ Operating Systems
------
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white" alt="CentOS">
@@ -106,7 +106,7 @@
 </p>
 
 ### Full-Stack Development
------
+
 **Frontend Ecosystem**
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
@@ -122,13 +122,13 @@
 </p>
 
 ## Deployment 
------
+
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku) 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
 
 ### 🔧 Development & Utilities 
------
+
 **API & Web Scraping**
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) 
