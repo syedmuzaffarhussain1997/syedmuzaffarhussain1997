@@ -109,6 +109,7 @@
 </p>
 
 **Backend Services**
+<hr>
 <p align="left">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
