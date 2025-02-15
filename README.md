@@ -92,6 +92,14 @@
   <img src="https://img.shields.io/badge/CloudFormation-232F3E?logo=awscloudformation&logoColor=white" alt="CloudFormation">
 </p>
 
+
+### 🖥️ Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white" alt="CentOS">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+</p>
+
 ### Full-Stack Development
 **Frontend Ecosystem**
 <p align="left">
@@ -113,7 +121,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
 
 ### 🔧 Development & Utilities 
-**API & Web Scraping**
+**API & Web Scraping**:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) 
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-44B12B?logo=python) 
 
