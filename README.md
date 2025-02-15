@@ -9,7 +9,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)]([KAGGLE_URL])-->
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect)](https://pk.linkedin.com/in/muzaffarhussain1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20)](https://pk.linkedin.com/in/muzaffarhussain1)
 [![Email](https://img.shields.io/badge/Email-Discuss%20Opportunities-D14836?logo=gmail)](mailto:muzaffar.ai.engineer@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)](https://kaggle.com/)
 </div>
