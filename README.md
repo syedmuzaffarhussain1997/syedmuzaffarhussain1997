@@ -71,18 +71,37 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <!-- Amazon S3 -->
+  <img src="https://img.shields.io/badge/-S3-569A31?logo=amazons3" alt="Amazon S3">
+
+  <!-- Amazon EC2 -->
+  <img src="https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2" alt="Amazon EC2">
+
+  <!-- AWS CloudFormation -->
+  <img src="https://img.shields.io/badge/-CloudFormation-232F3E?logo=awscloudformation" alt="AWS CloudFormation">
+
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker" alt="Docker">
+  
+  <!-- Kubernetes -->
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes" alt="Kubernetes">
+  
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git" alt="Git">
 </p>
 
-**Services**  
+<!--**Services**  
 ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3) 
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2) 
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-232F3E?logo=awscloudformation)
+-->
 
-**Tools**  
+
+<!--**Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-
+-->
 ### <img src="https://img.icons8.com/3d-fluency/24/code.png" width="20"/> Full-Stack Development
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) 
