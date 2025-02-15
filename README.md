@@ -168,8 +168,7 @@
 
 <br/>
 
-## 
-  📊 My Github Stats
+## 📊 My Github Stats
 <br/>
 <a href="https://github.com/syedmuzaffarhussain1997/github-readme-stats">
       <img alt="Syed Muzaffar Hussain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=syedmuzaffarhussain1997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
