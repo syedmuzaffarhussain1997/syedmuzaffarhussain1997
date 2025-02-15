@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed Muzaffar Hussain</h1>
 
-<h3 align="center">Machine Learning Engineer | Cloud AI Specialist | Data Solutions Architect</h3>
+<h3 align="center">Data & AI Professional | ML & AI Engineer | Jr. Big Data Engineer | Data Solutions Architect</h3>
 
 <div align="center">
   
@@ -17,7 +17,7 @@
 <p>
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
     <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
-    <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
+    <img src="https://img.shields.io/badge/NLTK-259d24?logo=python&logoColor=white" alt="NLTK">
 </p>
 
 
