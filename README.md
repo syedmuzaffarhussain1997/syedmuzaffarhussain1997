@@ -12,16 +12,33 @@
 ## 🙋‍♂️ About Me
 **Data & AI Professional** passionate about building production-ready machine learning solutions and scalable data pipelines. Combining:
 
-✔️ **Technical Foundations**: 2+ years hands-on experience with Python, JavaScript, and cloud platforms  
-✔️ **Certified Expertise**: NVIDIA AI Specialist, Google Cloud Professional, Data Engineering Bootcamp  
-✔️ **Full-Stack Capability**: From data modeling (Pandas, SQL) to deployment (AWS, Docker)  
-✔️ **Continuous Learner**: Active contributor to open-source AI projects and technical communities  
+**Certified Technical Expertise**  
+- NVIDIA Certified AI Developer: RAG Agents with LLMs 
+- Data Engineering Professional (DataExpert.io):  
+  » Taught by Zach Wilson (Former Big Tech Engineer)  
+  » Focus: Spark Optimization, SCD Implementation, ETL Pipelines  
 
-**Current Focus**:  
-🔭 Implementing MLOps best practices in cloud-native environments  
-🌱 Mastering distributed data processing with PySpark & Databricks  
-💡 Exploring generative AI applications with Llama & Gemini APIs  
+## 🔭 Current Technical Initiatives
 
+### Core Skill Development  
+- **System Design Fundamentals**:  
+  ◈ Advanced Data Structures & Algorithms Implementation  
+  ◈ OOP Patterns in Distributed Systems  
+  ◈ Enterprise-Level Code Optimization  
+
+### Cloud Data Engineering  
+- **Big Data Processing**:  
+  » PySpark Performance Tuning (40% query optimization)  
+  » Databricks Workflow
+
+### Generative AI Implementation  
+- **Production-Ready LLM Systems**:  
+  ◈ Llama 3.1 Model Fine-Tuning  
+  ◈ Gemini API Integration Patterns  
+  ◈ MLOps for Generative AI (Vertex AI, LangChain) 
+
+**Learning Philosophy**  
+» *"Applied Technical Education"* - Implementing theoretical concepts through production-grade projects 
 
 - 👨‍💻 All of my projects are available at **[https://github.com/syedmuzaffarhussain1997](https://github.com/syedmuzaffarhussain1997)**
 
