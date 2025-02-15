@@ -156,7 +156,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) 
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-44B12B?logo=python) 
 
-<br>
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzaffarhussain" height="30" width="40" /></a>
@@ -166,7 +166,7 @@
 <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzaffarhussain" height="30" width="40" /></a>
 </p>
 
-
+<br/>
 ## 📊 My Github Stats
 
 <br/>
@@ -175,12 +175,14 @@
 </a>
  
 ##
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuzaffarhussain1997&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true)
-  <br/>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuzaffarhussain1997&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true)
+<br/>
 
-  ## ❤ Views and Followers
 
+## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=syedmuzaffarhussain1997">
 </a>
-<a href="https://github.com/syedmuzaffarhussain1997?tab=followers"><img src="https://img.shields.io/github/followers/syedmuzaffarhussain1997?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/syedmuzaffarhussain1997?tab=followers">
+    <img src="https://img.shields.io/github/followers/syedmuzaffarhussain1997?label=Followers&style=social" alt="GitHub Badge">
+</a>
