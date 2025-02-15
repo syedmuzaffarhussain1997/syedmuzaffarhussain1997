@@ -3,11 +3,6 @@
 <h3 align="center">Data & AI Professional | ML & AI Engineer | Jr. Big Data Engineer | Data Solutions Architect</h3>
 
 <div align="center">  
-<!--  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)]([[LINKEDIN_URL]()])
-[![Email](https://img.shields.io/badge/Email-Discuss%20Opportunities-D14836?logo=gmail)](mailto:[YOUR_EMAIL])
-[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)]([KAGGLE_URL])-->
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20-0A66C2?logo=linkedin)](https://pk.linkedin.com/in/muzaffarhussain1)
 [![Email](https://img.shields.io/badge/Email-Discuss%20-D14836?logo=gmail)](mailto:muzaffar.ai.engineer@gmail.com)
@@ -160,7 +155,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzaffarhussain" height="30" width="40" /></a>
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzaffarhussain" height="30" width="40" /></a>
+<a href="https://pk.linkedin.com/in/muzaffarhussain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzaffarhussain" height="30" width="40" /></a>
 <a href="https://stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muzaffarhussain" height="30" width="40" /></a>
 <a href="https://kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muzaffarhussain" height="30" width="40" /></a>
 <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzaffarhussain" height="30" width="40" /></a>
