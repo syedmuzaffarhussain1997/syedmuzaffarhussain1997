@@ -1,4 +1,48 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed Muzaffar Hussain</h1>
+
+<h3 align="center">Machine Learning Engineer | Cloud AI Specialist | Data Solutions Architect</h3>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)]([LINKEDIN_URL])
+[![Email](https://img.shields.io/badge/Email-Discuss%20Opportunities-D14836?logo=gmail)](mailto:[YOUR_EMAIL])
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Competitions-20BEFF?logo=kaggle)]([KAGGLE_URL])
+
+</div>
+
+## 🛠️ Technical Expertise
+
+### Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
+</p>
+
+### Data Engineering & Analytics
+<p>
+  <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/PySpark-FF0080?logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
+</p>
+
+
+
+
+
 <h3 align="center">Data & AI Professional | Full-Stack Developer</h3>
 
 ## 🙋‍♂️ About Me
