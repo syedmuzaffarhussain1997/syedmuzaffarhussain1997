@@ -22,6 +22,75 @@
 🌱 Mastering distributed data processing with PySpark & Databricks  
 💡 Exploring generative AI applications with Llama & Gemini APIs  
 
+### <img src="https://img.icons8.com/3d-fluency/94/python.png" width="25"/> Languages & Core Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+### <img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="25"/> AI/ML Engineering
+**Machine Learning Implementation**
+<p align="left">
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/NLTK-259d24?logo=python&logoColor=white" alt="NLTK">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+</p>
+
+**Generative AI & NLP**
+<p align="left">
+  <img src="https://img.shields.io/badge/Llama-FFD700?logo=meta&logoColor=black" alt="Llama">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Dialogflow-FF6D70?logo=dialogflow&logoColor=white" alt="Dialogflow">
+</p>
+
+### <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="25"/> Data Engineering
+**Processing & Storage**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+**Business Intelligence**
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
+</p>
+
+### <img src="https://img.icons8.com/3d-fluency/94/cloud-network.png" width="25"/> Cloud & DevOps
+**Infrastructure & Deployment**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
+
+**AWS Services**
+<p align="left">
+  <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" alt="S3">
+  <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white" alt="EC2">
+  <img src="https://img.shields.io/badge/CloudFormation-232F3E?logo=awscloudformation&logoColor=white" alt="CloudFormation">
+</p>
+
+### <img src="https://img.icons8.com/3d-fluency/94/web-design.png" width="25"/> Full-Stack Development
+**Frontend Ecosystem**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+**Backend Services**
+<p align="left">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass">
+</p>
+
 - 👨‍💻 All of my projects are available at **[https://github.com/syedmuzaffarhussain1997](https://github.com/syedmuzaffarhussain1997)**
 
 - ⚡Fact Developing Unique & Challenging task is my enthusiasm
