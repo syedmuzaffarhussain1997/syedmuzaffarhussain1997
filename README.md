@@ -41,6 +41,82 @@
 
 
 
+### <img src="https://img.icons8.com/3d-fluency/24/artificial-intelligence.png" width="20"/> AI/ML & Data Science
+**Frameworks:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) 
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn) 
+![NLTK](https://img.shields.io/badge/-NLTK-259d24?logo=nltk)
+
+**Generative AI:**  
+![Llama](https://img.shields.io/badge/-Llama_3.1-FFD700?logo=meta) 
+![Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=googlegemini) 
+![Dialogflow](https://img.shields.io/badge/-Dialogflow_ES-FF6D70?logo=dialogflow)
+
+**Data Tools:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) 
+![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apachespark) 
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks)
+
+### <img src="https://img.icons8.com/3d-fluency/24/cloud.png" width="20"/> Cloud & DevOps
+**Platforms:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws) 
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud) 
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure)
+
+**Services:**  
+![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3) 
+![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2) 
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-232F3E?logo=awscloudformation)
+
+**Tools:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+
+### <img src="https://img.icons8.com/3d-fluency/24/code.png" width="20"/> Full-Stack Development
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react) 
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) 
+![Express](https://img.shields.io/badge/-Express-000000?logo=express) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+
+### <img src="https://img.icons8.com/3d-fluency/24/analytics.png" width="20"/> Analytics & BI
+**Visualization:**  
+![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau) 
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly)
+
+**Statistical Methods:**  
+![Hypothesis](https://img.shields.io/badge/-Hypothesis_Testing-009688?logo=mathworks) 
+![TimeSeries](https://img.shields.io/badge/-Time_Series-4CAF50?logo=trello)
+
+### <img src="https://img.icons8.com/3d-fluency/24/toolbox.png" width="20"/> Utilities & Platforms
+**Web:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) 
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass)
+
+**Tools:**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) 
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-44B12B?logo=python) 
+![Groq](https://img.shields.io/badge/-Groq_LPUs-00A98F?logo=groq)
+
+**Deployment:**  
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku) 
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) 
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
+
 
 
 <h3 align="center">Data & AI Professional | Full-Stack Developer</h3>
