@@ -12,58 +12,40 @@
 
 ## 🛠️ Technical Expertise
 
-### Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning & Data Science
+**Frameworks:**  
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
+    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+    <img src="https://img.shields.io/badge/NLP-4A154B?logo=natural%20language%20processing&logoColor=white" alt="NLP">
+    ![NLTK](https://img.shields.io/badge/-NLTK-259d24?logo=nltk)
 </p>
+  
 
 ### Data Engineering & Analytics
+**Data Tools:**  
 <p>
   <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
   <img src="https://img.shields.io/badge/PySpark-FF0080?logo=apachespark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) 
+  ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks)
 </p>
 
-### Cloud & DevOps
+### Generative AI
+![Llama](https://img.shields.io/badge/-Llama_3.1-FFD700?logo=meta) 
+![Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=googlegemini) 
+![Dialogflow](https://img.shields.io/badge/-Dialogflow_ES-FF6D70?logo=dialogflow)
+
+
+### <img src="https://img.icons8.com/3d-fluency/24/cloud.png" width="20"/> Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
 </p>
-
-
-
-### <img src="https://img.icons8.com/3d-fluency/24/artificial-intelligence.png" width="20"/> AI/ML & Data Science
-**Frameworks:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) 
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn) 
-![NLTK](https://img.shields.io/badge/-NLTK-259d24?logo=nltk)
-
-**Generative AI:**  
-![Llama](https://img.shields.io/badge/-Llama_3.1-FFD700?logo=meta) 
-![Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=googlegemini) 
-![Dialogflow](https://img.shields.io/badge/-Dialogflow_ES-FF6D70?logo=dialogflow)
-
-**Data Tools:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) 
-![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apachespark) 
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks)
-
-### <img src="https://img.icons8.com/3d-fluency/24/cloud.png" width="20"/> Cloud & DevOps
-**Platforms:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws) 
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud) 
-![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure)
 
 **Services:**  
 ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3) 
@@ -82,7 +64,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) 
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
 
@@ -94,7 +75,6 @@
 ### <img src="https://img.icons8.com/3d-fluency/24/analytics.png" width="20"/> Analytics & BI
 **Visualization:**  
 ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau) 
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly)
 
 **Statistical Methods:**  
