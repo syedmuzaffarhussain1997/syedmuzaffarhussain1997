@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Llama-FFD700?logo=meta&logoColor=black" alt="Llama">
   <img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/Dialogflow-FF6D70?logo=dialogflow&logoColor=white" alt="Dialogflow">
+  <img src="https://img.shields.io/badge/-Groq_LPUs-00A98F?logo=groq" alt="Groq LPUs">
 </p>
 
 ### <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="25"/> Data Engineering
@@ -111,10 +112,10 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
 
-## Tools
+### 🔧 Development & Utilities 
+**API & Web Scraping**
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) 
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-44B12B?logo=python) 
-![Groq](https://img.shields.io/badge/-Groq_LPUs-00A98F?logo=groq)
 
 
 <h3 align="left">Connect with me:</h3>
