@@ -150,6 +150,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Cylic](https://img.shields.io/badge/-Cylic-3776AB?logo=cyclic&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
 
 ### 🔧 Development & Utilities 
 
